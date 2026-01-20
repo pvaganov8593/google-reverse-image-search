@@ -1,8 +1,8 @@
 {
-  "author": "",
-  "name" : "",
-  "version" : "",
-  "dependencies" :
+  "author": "schomery",
+  "name": "google-reverse-image-search",
+  "version": "1.0.0",
+  "dependencies":
     { 
       "cli-color": "0.2",
       "commander": "1.1",

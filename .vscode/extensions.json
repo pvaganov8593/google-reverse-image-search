@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "maazsaboowala.prompt2image-ai-generator"
+        "maazsaboowala.prompt2image-ai-generator",
+        "ms-vscode-remote.vscode-remote-extensionpack"
     ]
 }

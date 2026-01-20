@@ -1,0 +1,20 @@
+{
+	"servers": {
+		"sunriseapps/imagesorcery-mcp": {
+			"type": "stdio",
+			"command": "other",
+			"gallery": "https://api.mcp.github.com",
+			"version": "1.0.0"
+		},
+		"azure-ai-foundry/mcp-foundry": {
+			"type": "stdio",
+			"command": "uvx",
+			"args": [
+				"run-azure-ai-foundry-mcp"
+			],
+			"gallery": "https://api.mcp.github.com",
+			"version": "1.0.0"
+		}
+	},
+	"inputs": []
+}
